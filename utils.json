@@ -1,0 +1,41 @@
+{
+    "name": "rest-system_integration",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-cli": {
+            "owner": "aramtech",
+            "repo": "rest-cli",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-crypto": {
+            "owner": "aramtech",
+            "repo": "rest-crypto",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-ObjectError": {
+            "owner": "aramtech",
+            "repo": "rest-ObjectError",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-use_api": {
+            "owner": "aramtech",
+            "repo": "rest-use_api",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "private": false,
+    "owner": "aramtech",
+    "hash": "HSMKhnkYKPsRYgVJ72lLshoj4Q9b3ydWqPxmzFNXigs",
+    "version": "0.2.2",
+    "public_repo": false,
+    "description": ""
+}
